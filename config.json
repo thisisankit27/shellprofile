@@ -1,0 +1,137 @@
+{
+  "ascii": [
+    "                                    .:-+++***++=-.                                        ",
+    "                                :=++**************+=:.                                    ",
+    "                             :=*****#############******+-:.                               ",
+    "                           -*#***########%%########*##*****+:                             ",
+    "                          +############%%%%%%#####*######****+.                           ",
+    "                        .*%%%#########%%%%%%%%%%%####%%###*+*#:                           ",
+    "                       .#%%%%#######%%%%%%%%######*+++**%#*+**-                           ",
+    "                       *%%%%%%%%%%%###########*****+===+###*+*=-                          ",
+    "                      -%%%%%%%%%%#######************++=+*#####**=                         ",
+    "                      *%%%%%%%####***********+++++++=====*#%%%##+.                        ",
+    "                      =#%%%%%##****++++++++++++****+=---==*%%%%#+                         ",
+    "                       =%%%%#*++=++***********######**+=-==*%%%#:                         ",
+    "                        +%%%*==+*****#####*+**###*******++=+##%*                          ",
+    "                         +%%+=++****######+==**##*##**##**==###:                          ",
+    "                          *%*+******####**+:-=#*####***+++=-**++=.                        ",
+    "                        .+=*==+===+****+++-:--=*++*+++=-----+****-                        ",
+    "                        :#**==---------=+==+++++++======---=+****-                        ",
+    "                         ++*==-------=+++##**###*+++++++====++**=                         ",
+    "                         .+=+========+===+*####+==+++++++++=**==                          ",
+    "                          --+==========+******##**++++++++=+*++:                          ",
+    "                          .-=+===+++++###*+*****####*+*+*+++-:.                           ",
+    "                            .+*++++++***+***####***#*******:                              ",
+    "                              +********+++**##******#**#**=                               ",
+    "                              .+##******+++++*****#######=                                ",
+    "                                =#######***#***#########+:                                ",
+    "                               .-*###############%%####*+.                                ",
+    "                               ..=**####%%%%##########**=                                 ",
+    "                              . ..-+**#################+:.                                ",
+    "                                ....-+*##############*-::..                               ",
+    "                               .....:::=*##########*=::::..                               ",
+    "                          .  . .......:::-+*#####*=-:::::... .                            ",
+    "                          .   ..........::=*##***=-::::.... ..                            ",
+    "                  ..      .    ........-+#%%%#%%%%#+-:.......                             ",
+    "                 ..            ......-#%%##*######%##*=:......         ..                  ",
+    "                ::.            ...::-+++*########++=====-.....   .     ...                 ",
+    "               :::.           ........:::==####*=----:::...........    ..:.   ..           ",
+    "         ..   :-:.           ............::+*##*=::::::.............  ...:::. ..... .      ",
+    "    ........ :-:..          ... ..........-**###+::::................  ...:::....:::..  .",
+    "............:-::..         .... ..........++*###*:::.................   ...:::...:::::...:",
+    ":......:::.:--:..         ...............=***####::::..................  ..:::::::::::::.",
+    ":..:::.:::.--:..        .  ..............++*#####::::.......................:::-::::---::-",
+    ":.::::.::.:-:.. ...   .... .............:***#####-:::........................::::::----::-"
+]
+,
+  "title": "Terminal",
+  "username": "visitor",
+  "hostname": "ubuntu",
+  "password": "ubuntu123",
+  "social": {
+    "email": {
+      "url": "thisisankitsrivastava@gmail.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    "github": {
+      "url": "thisisankit27",
+      "icon": "fa-brands fa-github"
+    },
+    "linkedin": {
+      "url": "thisisankitsrivastava",
+      "icon": "fa-brands fa-linkedin"
+    }
+  },
+  "documents": {
+    "resume": {
+      "url": "https://tinyurl.com/SrivastavaAnkit",
+      "icon": "fa-solid fa-file-lines"
+    }
+  },
+  "aboutGreeting": "Turning ideas into real life products is my calling.",
+  "projects": [
+    [
+      "SnapSpeak",
+      "Visual Stortelling: Image Synthesis to narrate the story incorporated",
+      "https://github.com/thisisankit27/SnapSpeak",
+      "- Developed a Dockerized Web App for Visual Elocution Synthesis, focusing on optimised scaling\n- Implemented pytesseract for OCR tasks and WhiteNoise for efficient serving hundreds of static assets\n - Ensured security and performance, achieving a 17% improvement, by utilizing Gunicorn as the WSGI server"
+    ],
+    [
+      "TranslationTMT",
+      "Bi-directional Multilingual translation between English and 5 famous languages (hi, fr, de, zh, bn)",
+      "https://github.com/thisisankit27/TranslationTMT",
+      "- Engineered a Model-Server Gateway using Django to efficiently handle 5 PyTorch model inferences\n- Successfully serving over 100 translation requests per second, demonstrating robust performance and reliability\n- Integrated Web Speech and Speech Synthesis API for a seamless user interaction\n- Designed a responsive front-end chat using AJAX, ensuring a stateful web app"
+    ],
+    [
+      "Forganic",
+      "An E-Commerce Django REST Framework back-end, for ayurvedic products",
+      "https://github.com/thisisankit27/Forganic-Backend",
+      "- Designed an admin panel for CRUD operations on 6 essential components including price, rating and comments\n- Secured the interactions through Token Authentication, with additional email OTP verification as 2FA\n- Integrated Razorpay API for seamless payment processing, with an average processing time of under 11 seconds\n- Conducted load and concurrency testing using Postman to assess performance and response time"
+    ],
+    [
+      "Divyangjan",
+      "Best place to quickly filter all eligible Government Schemes for your Disability",
+      "https://github.com/thisisankit27/Divyangjan",
+      "- Web-Scraped all relevant Government schemes for PWD, providing a comprehensive database of over 800 schemes\n- Deployed on Render with PostgreSQL, ensuring seamless accessibility for thousands of potential users"
+    ]
+        
+  ],
+  "technologies": [
+    { "name": "C++", "icon": "fa-solid fa-c" },
+    { "name": "Django", "icon": "fa-brands fa-python" },
+    { "name": "Docker", "icon": "fa-brands fa-docker" },
+    { "name": "AWS", "icon": "fa-brands fa-aws" },
+    { "name": "Redis", "icon": "fa-solid fa-memory" },
+    { "name": "Celery", "icon": "fa-solid fa-boxes-stacked" },
+    { "name": "PostgreSQL", "icon": "fa-solid fa-database" },
+    { "name": "MongoDB", "icon": "fa-brands fa-envira" },
+    { "name": "Gunicorn", "icon": "fa-solid fa-horse" },
+    { "name": "Git", "icon": "fa-brands fa-git-alt" },
+    { "name": "Github", "icon": "fa-brands fa-github" },
+    { "name": "Postman", "icon": "fa-solid fa-gears" },
+    { "name": "Linux", "icon": "fa-brands fa-linux" }
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
